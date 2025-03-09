@@ -4,13 +4,19 @@
 <h2>About me:</h2>
 <p>With over <strong>10 years of experience in web development</strong>, I specialize in building <strong>responsive</strong>, high-performance applications. My passion lies in <strong>clean code</strong>, <strong>intuitive UI/UX</strong>, and <strong>scalable front-end architectures</strong>. </p>
 <h2>Languages:</h2>
-<ul style="list-style: none; padding: 0;">
-	<li>🇺🇦 Ukrainian - Native</li>
-	<li>🇺🇸 English - Upper-Intermediate (B2)</li>
-	<li>🇷🇺 Russian - Native</li>
-</ul>
+<table style="list-style: none; padding: 0;">
+	<tr>
+		<td>🇺🇦 Ukrainian - Native</td>
+	</tr>
+	<tr>
+		<td>🇺🇸 English - Upper-Intermediate (B2)</td>
+	</tr>
+	<tr>
+		<td>🇷🇺 Russian - Native</td>
+	</tr>
+</table>
 <h2>My stack and tools</h2>
-<table align="center" style="border-collapse: collapse; width: 100%;">
+<table align="left" style="border-collapse: collapse; width: 100%;">
   <tr style="background-color: #f8f8f8; margin: 0; padding: 0;">
     <td align="center" style="padding: 10px; width: 88px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="44" height="44"/>
